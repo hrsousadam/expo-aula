@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-aula",
-    "slug": "expo-aula",
+    "name": "meuaplicativo",
+    "slug": "meuaplicativo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,8 +18,6 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.app.expo-aula",
-      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -27,11 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "14169862-fb64-45c0-978a-30c8b685d7a1"
-      }
     }
   }
 }
